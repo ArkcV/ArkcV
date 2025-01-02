@@ -1,9 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" width="600px" width="100px" align="right" alt="Computador iuriCode">
 
-#
-
-<p align="left">
- 
 #### Contatos :
  
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArkcV)
